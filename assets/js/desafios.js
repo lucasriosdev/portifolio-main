@@ -8,11 +8,8 @@ function desafios(section) {
         <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>
         criado com o propósito de prática diária em 21 dias consecutivos com
         vários pequenos projetos diferentes.
-      </p>
-      <a
-        href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat"
-        target="_blank"
-      >
+      </p
+      
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -26,7 +23,7 @@ function desafios(section) {
           />
         </svg>
         Acessar repositório completo
-      </a>
+      </>
     </header>
     <div class="content">
       <div class="cards">
