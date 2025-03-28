@@ -89,11 +89,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Quiz Interativo</h3>
+          <h3>Twitter Clone (Simplificado)</h3>
           <div class="img-wrapper">
-            <img src="https://raw.githubusercontent.com/lucasriosdev/Projeto-Quiz-Interativo/0cac7180701e0c646d1283655d2cf4a2161197a7/image/Preview%20Quiz.png" />
+            <img src="https://github.com/lucasriosdev/Clone-Do-Twitter/raw/main/public/assets/twitter.png?raw=true" />
             <div class="buttons">
-              <a href="https://github.com/lucasriosdev/Projeto-Quiz-Interativo" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucasriosdev/Clone-Do-Twitter?tab=readme-ov-file#twitter-clone-simplificado" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucasriosdev/Projeto-Quiz-Interativo" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/lucasriosdev/Clone-Do-Twitter?tab=readme-ov-file#twitter-clone-simplificado" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -122,8 +122,8 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Este é um quiz interativo sobre desenvolvimento web, desenvolvido com HTML, CSS e JavaScript.</p>
-          <p>HTML - CSS - JS</p>
+          <p>Um clone básico do Twitter com funcionalidades de login e postagem, desenvolvido com Node.js no backend e HTML/CSS/JavaScript no frontend.</p>
+          <p>NODE.JS - CSS3 - JAVASCRIPT - HTML5</p>
         </div>
         <div class="card">
 
