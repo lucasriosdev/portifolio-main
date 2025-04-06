@@ -47,14 +47,14 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Projeto Jokenpô com Shrek </h3>
+          <h3>Cadastro de Usuários </h3>
           <div class="img-wrapper">
             <img
-              src="https://github.com/lucasriosdev/ProjetoJokenpo/raw/main/image/CapturaDeTelaProjeto.png?raw=true"
+              src="https://github.com/lucasriosdev/cadastro-de-usuarios/raw/main/apps/web/img/imagem1.png?raw=true"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucasriosdev/ProjetoJokenpo" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucasriosdev/cadastro-de-usuarios" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -68,9 +68,9 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucasriosdev/ProjetoJokenpo" id="" title="Ver Projetos">
+              <a href="https://github.com/lucasriosdev/cadastro-de-usuarios" id="" title="Ver Projetos">
                 <svg
-                 
+
                   viewBox="0 0 24 24"
                   width="24"
                   height="24"
@@ -84,9 +84,10 @@ function projetos(section) {
             </div>
           </div>
           <p>
-           Este é um jogo simples de Jokenpô (Pedra, Papel, Tesoura) com um tema inspirado no personagem Shrek. A cada jogada, o jogador escolhe uma opção e enfrenta o Shrek, que faz sua escolha de forma aleatória.
+           Este é um projeto completo para cadastro de usuários, desenvolvido utilizando React, TypeScript, JavaScript e CSS3 no front-end e Node.js, Express, Prisma e MongoDB no back-end. O sistema permite cadastrar, listar e deletar usuários, com integração total ao banco de dados (API), além de organizar
+           o codígo em uma estrutura monorepo.
           </p>
-          <p>HTML - CSS - JS</p>
+          <p>HTML - CSS - JS, TS, React, Node.js, Express, Prisma, MongoDB</p>
         </div>
         <div class="card">
           <h3>Twitter Clone (Simplificado)</h3>
