@@ -48,14 +48,11 @@ CONTATOS
 ![Demonstração do Portfólio TELA 05 -](https://github.com/lucasriosdev/portifolio-main/blob/main/assets/images/tela05.png?raw=true)
 
 
-
-
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5 semântico
 - CSS3 moderno (Flexbox, Grid)
 - JavaScript ES6+
-- [Adicione outras se necessário]
 
 UTILIZE O DARKMODE PARA UMA MELHOR EXPERIÊNCIA DE USABILIDADE!
 
