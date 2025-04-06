@@ -6,6 +6,17 @@ Um portfólio profissional desenvolvido por Lucas Rios para showcase de seus pro
 
 ## 📌 Visão Geral
 
+## 📂 Seções do Portfólio
+
+| Seção       | Descrição                                  |
+|-------------|-------------------------------------------|
+| **Home**    | Apresentação inicial com chamada para ação (CTA) destacando informações principais |
+| **Sobre**   | Biografia resumida e experiência profissional com linha do tempo |
+| **Habilidades** | Lista de tecnologias que domino organizadas por nomes (front-end, back-end, etc.) |
+| **Projetos** | Destaque dos projetos com link para repositorio, descrição e tecnologias utilizadas |
+| **Contato** | Botões com links diretos para redes sociais e formulário de contato |
+
+
 Este repositório contém o código-fonte do meu portfólio pessoal, onde apresento:
 
 - Minhas habilidades técnicas
@@ -47,3 +58,5 @@ CONTATOS
 - [Adicione outras se necessário]
 
 UTILIZE O DARKMODE PARA UMA MELHOR EXPERIÊNCIA DE USABILIDADE!
+
+✨ Desenvolvido com ❤️ por Lucas Rios
