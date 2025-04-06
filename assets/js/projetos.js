@@ -42,7 +42,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Projeto Desenvolvido no intuito de mostrar a hístoria de algumas cidades no interior da Bahia.
+
           </p>
           <p>HTML - CSS - JS</p>
         </div>
