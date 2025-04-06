@@ -5,14 +5,14 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Turismo</h3>
+          <h3>Site Empresarial NexusWeb</h3>
           <div class="img-wrapper">
             <img
-              src="https://github.com/lucasriosdev/Turismo/blob/main/img/CapturaDeTelaProjeto.png?raw=true"
+              src="https://github.com/lucasriosdev/portifolio-main/blob/main/assets/images/nexus.png?raw=true"
               alt="Foto do Projeto de Turismo."
             />
             <div class="buttons">
-              <a href="https://github.com/lucasriosdev/Turismo/tree/main" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucasriosdev/SiteNexus" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucasriosdev/Turismo/tree/main" target="_blank" title="Ver Projeto">
+              <a href="https://lucasriosdev.github.io/SiteNexus/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,7 +42,8 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Projeto Desenvolvido no intuito de mostrar a hístoria de algumas cidades no interior da Bahia.
+            SiteNexus é um site moderno e responsivo desenvolvido com HTML5, CSS3 e JavaScript puro. Um projeto focado em performance, design limpo e
+            interação fluida, ideal para representar ideias criativas na web.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
