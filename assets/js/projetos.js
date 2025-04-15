@@ -166,11 +166,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Jogo de Dados</h3>
+          <h3>Projeto Angulars</h3>
           <div class="img-wrapper">
-            <img src="https://github.com/lucasriosdev/projeto-jogo-de-dados/raw/main/JogoDeDados.png?raw=true" />
+            <img src="https://raw.githubusercontent.com/lucasriosdev/portifolio-main/aa5b7dce53a7afb4d37d31d1de011cdaaf7335e0/assets/images/projetonovo.png" />
             <div class="buttons">
-              <a href="https://github.com/lucasriosdev/projeto-jogo-de-dados" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucasriosdev/projeto-angular-lista-de-projetos-main" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -184,7 +184,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucasriosdev/projeto-jogo-de-dados" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/lucasriosdev/projeto-angular-lista-de-projetos-main" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -199,8 +199,20 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Jogo de Dados interativo criado com HTML5, CSS3 e JavaScript. Ao clicar no botão, dois dados são lançados, exibindo o resultado. Se forem iguais, o fundo muda para amarelo com uma mensagem de "parabéns". Simples e dinâmico!.</p>
-          <p>HTML - CSS - JS</p>
+          <p>JUm sistema minimalista e eficiente para organizar projetos e tarefas, desenvolvido com:
+
+Angular 15+ (Componentes reutilizáveis)
+
+RxJS (Gerenciamento de estado)
+
+Angular Material (UI profissional)
+
+Funcionalidades-chave:
+CRUD de projetos/tarefas
+Drag-and-drop intuitivo
+Filtros dinâmicos
+Tema dark/light</p>
+          <p>ANGULAR - TYPESCRIPT - SASS</p>
         </div>
         <div class="card">
           <h3>API de Usúarios</h3>
