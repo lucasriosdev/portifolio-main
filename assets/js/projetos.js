@@ -129,11 +129,11 @@ function projetos(section) {
         </div>
         <div class="card">
 
-          <h3>Projeto Conversor de Moedas</h3>
+          <h3>FinViz - Painel de Visualização de Dados Financeiros</h3>
           <div class="img-wrapper">
-            <img src="https://github.com/lucasriosdev/projeto-conversor-de-moeda/raw/main/DESKTOPeCELULAR.png?raw=true" />
+            <img src="https://camo.githubusercontent.com/edbac5c57ed50d3f16c93d3468dce32726c89487460680a79624382273c9a165/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f363830313634382f706578656c732d70686f746f2d363830313634382e6a7065673f6175746f3d636f6d70726573732663733d74696e797372676226773d3132363026683d373530266470723d31e" />
             <div class="buttons">
-              <a href="https://github.com/lucasriosdev/projeto-conversor-de-moeda" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucasriosdev/pythonproject" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -147,7 +147,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/lucasriosdev/projeto-conversor-de-moeda" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/lucasriosdev/pythonproject" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -162,8 +162,8 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Este projeto é um conversor de moedas que permite ao usuário converter valores do Real Brasileiro (BRL) para Dólar Americano (USD) ou Euro (EUR). Ele é desenvolvido com HTML, CSS e JavaScript, oferecendo uma interface amigável e funcionalidade interativa.</p>
-          <p>HTML - CSS - JS</p>
+          <p>O FinViz é um painel de visualização de dados financeiros moderno e interativo criado com Python e Flask. Este projeto apresenta técnicas avançadas de visualização de dados, integração de API e web design responsivo.</p>
+          <p>PYTHON - FLASK - BOOTSTRAP - HTML - CSS - JS</p>
         </div>
         <div class="card">
           <h3>Projeto Angulars</h3>
